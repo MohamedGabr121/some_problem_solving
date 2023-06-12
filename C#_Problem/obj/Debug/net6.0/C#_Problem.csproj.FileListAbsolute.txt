@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\bin\Debug\net6.0\C#_Problem.exe
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\bin\Debug\net6.0\C#_Problem.deps.json
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\bin\Debug\net6.0\C#_Problem.runtimeconfig.json
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\bin\Debug\net6.0\C#_Problem.dll
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\bin\Debug\net6.0\C#_Problem.pdb
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.AssemblyInfo.cs
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.dll
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\refint\C#_Problem.dll
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.pdb
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\C#_Problem.genruntimeconfig.cache
+C:\Users\moham\source\repos\C#_Problem Solution\C#_Problem\obj\Debug\net6.0\ref\C#_Problem.dll
